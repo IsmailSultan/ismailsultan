@@ -19,6 +19,6 @@
 
 ![Mysteri0us's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailsultan&theme=radical&hide=contribs,prs)
 
-![Mysteri0us's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailsultan&show_icons=true)
+![Mysteri0us's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailsultan&show_icons=true&theme=radical)
 
 <!-- [![Mysteri0us's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mysteri0us)](https://github.com/anuraghazra/github-readme-stats) -->
