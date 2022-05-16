@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mysteri0us&show_icons=true&locale=en&theme=radical" alt="mysteri0us" /></p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mysteri0us&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Mysteri0us's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mysteri0us)](https://github.com/anuraghazra/github-readme-stats) -->
