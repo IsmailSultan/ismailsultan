@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mysteri0us</h1>
-<h3 align="center">A passionate 10th grade student from India!</h3>
+<h1 align="center">Hi 👋, I'm Ismail</h1>
+<h3 align="center">An aspiring software developer from India!</h3>
 
 - 🌱 I’m currently learning **Back End Development**
 
